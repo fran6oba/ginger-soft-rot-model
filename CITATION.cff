@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying manuscript and this software release."
+title: "Ginger soft-rot reservoir model: reproducibility code and numerical outputs"
+version: 1.0.1
+type: software
+abstract: "Python code and machine-readable numerical outputs for an abstract open-population, two-route reservoir model motivated by Pythium-associated ginger soft rot. The parameter values are illustrative scenario values rather than field-calibrated estimates."
+authors:
+  - given-names: "Francis Chinedu"
+    family-names: "Oba"
+    affiliation: "Department of Mathematics, University of Ibadan, Ibadan, Nigeria"
+  - given-names: "Paul A."
+    family-names: "Ogbiyele"
+    affiliation: "Department of Mathematics, University of Ibadan, Ibadan, Nigeria"
+keywords:
+  - "ginger soft rot"
+  - "reservoir model"
+  - "basic reproduction number"
+  - "stability analysis"
+  - "sensitivity analysis"
+  - "mathematical epidemiology"
