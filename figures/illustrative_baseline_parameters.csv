@@ -1,0 +1,12 @@
+parameter,value,status
+Lambda,10.0,illustrative
+beta,0.02,illustrative
+phi,0.01,illustrative
+theta,0.2,illustrative
+eta,0.3,illustrative
+rho,0.5,illustrative
+k,0.4,illustrative
+mu,0.3,illustrative
+d,0.1,illustrative
+xi,0.6,illustrative
+delta,0.3,illustrative
